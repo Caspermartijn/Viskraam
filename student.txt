@@ -1,0 +1,3 @@
+Student name: Casper Klinkhamer
+Student number: 624343
+Student class: HAINFT1SA
